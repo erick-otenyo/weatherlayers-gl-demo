@@ -1,0 +1,22 @@
+{
+  "name": "weatherlayers-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "rollup-plugin-worker-factory": "^0.5.7",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@deck.gl/core": "^9.1.8",
+    "@deck.gl/extensions": "^9.1.8",
+    "@deck.gl/mapbox": "^9.1.8",
+    "maplibre-gl": "^5.3.0",
+    "weatherlayers-gl": "^2025.3.0"
+  }
+}
