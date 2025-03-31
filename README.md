@@ -2,6 +2,9 @@
 
 Sample project to test [weatherlayers-gl](https://github.com/weatherlayers)
 
+
+![screenshot](./public/screenshot.png)
+
 ## Running
 
 ```
